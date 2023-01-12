@@ -1,5 +1,7 @@
 # Trabalho prático de Matemática Discreta
- Trabalho prático de Matemática Discreta feito em 2019 durante o 2º período do curso de Sistemas de Informações da UFMG.
+![C](https://img.shields.io/badge/made%20with%20c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+Trabalho prático de Matemática Discreta feito em 2019 durante o 2º período do curso de Sistemas de Informações da UFMG.
  
 ## Desafios:
 
